@@ -2,6 +2,6 @@
     "org": "Giveth",
     "repo": "Roadmap",
     "tokenAddresses": ["0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75", "0xffbabeb49be77e5254333d5fdff72920b989425f"],
-    "votingMethod": "Standard voting",
+    "votingMethod": "STANDARD",
     "chainId": 100
 }
